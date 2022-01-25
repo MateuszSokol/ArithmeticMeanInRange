@@ -1,0 +1,14 @@
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\bin\Debug\netcoreapp3.1\ArithmeticMeanInRange.exe
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\bin\Debug\netcoreapp3.1\ArithmeticMeanInRange.deps.json
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\bin\Debug\netcoreapp3.1\ArithmeticMeanInRange.runtimeconfig.json
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\bin\Debug\netcoreapp3.1\ArithmeticMeanInRange.runtimeconfig.dev.json
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\bin\Debug\netcoreapp3.1\ArithmeticMeanInRange.dll
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\bin\Debug\netcoreapp3.1\ArithmeticMeanInRange.pdb
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\obj\Debug\netcoreapp3.1\ArithmeticMeanInRange.csproj.AssemblyReference.cache
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\obj\Debug\netcoreapp3.1\ArithmeticMeanInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\obj\Debug\netcoreapp3.1\ArithmeticMeanInRange.AssemblyInfoInputs.cache
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\obj\Debug\netcoreapp3.1\ArithmeticMeanInRange.AssemblyInfo.cs
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\obj\Debug\netcoreapp3.1\ArithmeticMeanInRange.csproj.CoreCompileInputs.cache
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\obj\Debug\netcoreapp3.1\ArithmeticMeanInRange.dll
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\obj\Debug\netcoreapp3.1\ArithmeticMeanInRange.pdb
+C:\Users\matib\source\repos\ArithmeticMeanInRange\ArithmeticMeanInRange\obj\Debug\netcoreapp3.1\ArithmeticMeanInRange.genruntimeconfig.cache
